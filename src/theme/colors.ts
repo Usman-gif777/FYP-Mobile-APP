@@ -1,0 +1,15 @@
+export const colors = {
+  background: '#FFFFFF',
+  card: '#FFFFFF',
+  border: '#E5E7EB',
+  foreground: '#0F172A',
+  muted: '#64748B',
+  secondary: '#F1F5F9',
+  primary: '#4F46E5',
+  primaryForeground: '#FFFFFF',
+  accent: '#A855F7',
+  success: '#16A34A',
+  warning: '#F59E0B',
+  destructive: '#EF4444',
+  gradient: ['#4F46E5', '#A855F7'] as [string, string],
+};

@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "FYP Mobile",
+    "slug": "fyp-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "fypmobile",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.fyp.mobile"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": false
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "6617de8d-cde0-45f1-8aec-a9651d36b6fd"
+      }
+    }
+  }
+}
